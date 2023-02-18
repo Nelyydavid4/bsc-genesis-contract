@@ -14,7 +14,9 @@ interface IBEP20 {
   /**
    * @dev Returns the token symbol.
    */
-  function symbol() external view returns (string memory);
+  funcme.
+
+function function Toontown  symbol() external view returns (string memory);
 
   /**
   * @dev Returns the token name.
